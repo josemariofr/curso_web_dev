@@ -13,14 +13,14 @@ aside: Usado para conter conteúdo secundário, como anúncios ou links relacion
 Esses são apenas alguns exemplos de elementos que podem ser usados para dividir o conteúdo em uma página HTML. Existem muitos outros elementos que podem ser usados de acordo com as necessidades do seu conteúdo.
 
 ## 2. Estrutura básica de um documento HTML (15 min)
-Introdução às tags <html>, <head> e <body>
+Introdução às tags &lt;html&gt;, &lt;head&gt; e &lt;body&gt;
 Exemplos de como estas tags são utilizadas para estruturar um documento HTML
 
 ## 3. Elementos básicos do HTML (20 min)
-Títulos: usando as tags <h1>, <h2>, etc. para criar títulos diferentes no seu documento
-Parágrafos: usando a tag <p> para criar parágrafos no seu documento
-Listas: usando as tags <ul>, <ol> e <li> para criar listas não ordenadas e ordenadas
-Links: usando a tag <a> para criar links para outras páginas ou sites
+Títulos: usando as tags &lt;h1&gt;, &lt;h2&gt;, etc. para criar títulos diferentes no seu documento
+Parágrafos: usando a tag &lt;p&gt; para criar parágrafos no seu documento
+Listas: usando as tags &lt;ul&gt;, &lt;ol&gt; e &lt;li&gt; para criar listas não ordenadas e ordenadas
+Links: usando a tag &lt;a&gt; para criar links para outras páginas ou sites
 
 ## 4. Prática: criando um documento HTML básico (20 min)
 Os alunos irão praticar o que aprenderam na aula, criando um documento HTML básico com títulos, parágrafos, listas e links
@@ -32,3 +32,4 @@ Os alunos podem ser incentivados a pesquisar mais sobre o HTML por conta própri
 
 ## Artigos:
 https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/HTML_basics
+https://gsigma.ufsc.br/~popov/aulas/bd1/progweb/basicow95/especiais.html
