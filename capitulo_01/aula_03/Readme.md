@@ -1,4 +1,4 @@
-# Aula 3: Layout e responsividade com Bootstrap
+# Aula 3: Layout e responsividade com Bootstrap (10 de fevereiro - sexta-feira)
 
 ### 1. O que é o Bootstrap
 Bootstrap é uma biblioteca de estilos CSS e JavaScript que fornece componentes pré-estilizados e layout responsivo para a criação de páginas da web. Ele foi criado pelo Twitter e é amplamente utilizado em projetos de todos os tamanhos, desde sites pessoais até projetos empresariais.
@@ -8,9 +8,16 @@ O Bootstrap é útil porque ele fornece uma série de componentes pré-estilizad
 Uma das principais vantagens do Bootstrap é que ele é fácil de usar e compatível com todos os navegadores modernos. Isso significa que você pode começar a utilizá-lo rapidamente em seus projetos, e ter a certeza de que as suas páginas serão exibidas corretamente em qualquer dispositivo.
 
 ## 2. Como adicionar o Bootstrap ao seu projeto
-## 3. Criando um layout responsivo usando o sistema de grade do Bootstrap
-## 4. Utilizando componentes pré-estilizados do Bootstrap (como navbars, botões e cards)
+Explicar como adicionar os arquivos CSS e JavaScript do Bootstrap ao seu projeto, seja através de um CDN ou baixando os arquivos diretamente
+Mostrar como incluir os arquivos no HTML e verificar se estão funcionando corretamente
 
+## 3. Criando um layout responsivo usando o sistema de grade do Bootstrap
+Explicar como o sistema de grade do Bootstrap funciona e como utilizá-lo para criar layouts que se adaptam automaticamente a diferentes tamanhos de tela
+Mostrar exemplos de como criar colunas e linhas com o sistema de grade e como utilizar classes para controlar o tamanho das colunas em diferentes resoluções de tela
+## 4. Utilizando componentes pré-estilizados do Bootstrap (como navbars, botões e cards)
+Explicar como utilizar componentes pré-estilizados do Bootstrap, como navbars, botões e cards, para criar interfaces atraentes rapidamente
+Mostrar exemplos de como criar navbars e botões com o Bootstrap e como utilizar classes para controlar o estilo dos componentes
+Explicar como utilizar cards para criar conteúdo de destaque de maneira atrativa
 # Atividades práticas
 Adicione o Bootstrap ao seu projeto incluindo os arquivos CSS e JavaScript necessários
 Utilize o sistema de grade do Bootstrap para criar um layout responsivo para o seu site

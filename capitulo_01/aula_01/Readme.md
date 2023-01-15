@@ -1,4 +1,4 @@
-# Aula 1: Introdução ao HTML
+# Aula 1: Introdução ao HTML (06 de fevereiro - segunda-feira)
 
 ## 1. O que é o HTML e por que é importante (10 min)
 No HTML, os elementos podem ser organizados em uma estrutura de hierarquia. Alguns elementos comuns que podem ser usados para dividir o conteúdo em seções são:

@@ -1,4 +1,4 @@
-# Aula 2: Formatando o conteúdo com CSS
+# Aula 2: Formatando o conteúdo com CSS (08 de fevereiro - quarta-feira)
 
 ## 1. O que é o CSS (10 min)
 Apresentação da linguagem CSS e explicação de sua função no design de páginas da web

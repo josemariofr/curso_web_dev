@@ -1,3 +1,15 @@
+# Roteiro:
+Aula 1: Introdução ao HTML (06 de fevereiro - segunda-feira)
+Aula 2: Formatando o conteúdo com CSS (08 de fevereiro - quarta-feira)
+Aula 3: Layout e responsividade com Bootstrap (10 de fevereiro - sexta-feira)
+Aula 4: Trabalhando com tabelas (13 de fevereiro - segunda-feira)
+Aula 5: Formulários e entrada de dados (15 de fevereiro - quarta-feira)
+Aula 6: Imagens e multimídia (17 de fevereiro - sexta-feira)
+Aula 7: Criando links e navegando entre páginas (20 de fevereiro - segunda-feira)
+Aula 8: Aprimorando o layout com o CSS avançado (22 de fevereiro - quarta-feira)
+Aula 9: Integrando o HTML com outras linguagens (24 de fevereiro - sexta-feira)
+Aula 10: Publicando e gerenciando seu site (27 de fevereiro - segunda-feira)
+
 # Aula 1: Introdução ao HTML
 
 O que é o HTML e por que é importante
@@ -55,7 +67,8 @@ Integrando o HTML com o PHP para trabalhar com banco de dados e formulários din
 
 # Aula 10: Publicando e gerenciando seu site
 
-Como publicar seu site na internet
+Como publicar seu site na AWS S3
+Como fazer o apontamento DNS
 Utilizando o Git para controlar e gerenciar o código do seu site
 Dicas de SEO para melhorar o ranqueamento do seu site nos motores de busca
 Manutenção e atualização de seu site após o lançamento.
