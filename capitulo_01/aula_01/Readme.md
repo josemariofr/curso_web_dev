@@ -3,7 +3,7 @@
 ## 1. O que é o HTML e por que é importante (10 min)
 No HTML, os elementos podem ser organizados em uma estrutura de hierarquia. Alguns elementos comuns que podem ser usados para dividir o conteúdo em seções são:
 
-header: Usado para conter informações de cabeçalho, como títulos e menus de navegação.
+-header: Usado para conter informações de cabeçalho, como títulos e menus de navegação.
 footer: Usado para conter informações de rodapé, como links de contato e direitos autorais.
 nav: Usado para conter um menu de navegação.
 main: Usado para conter o conteúdo principal de uma página.

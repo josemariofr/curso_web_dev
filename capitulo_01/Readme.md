@@ -1,74 +1,64 @@
-# Roteiro:
-Aula 1: Introdução ao HTML (06 de fevereiro - segunda-feira)
-Aula 2: Formatando o conteúdo com CSS (08 de fevereiro - quarta-feira)
-Aula 3: Layout e responsividade com Bootstrap (10 de fevereiro - sexta-feira)
-Aula 4: Trabalhando com tabelas (13 de fevereiro - segunda-feira)
-Aula 5: Formulários e entrada de dados (15 de fevereiro - quarta-feira)
-Aula 6: Imagens e multimídia (17 de fevereiro - sexta-feira)
-Aula 7: Criando links e navegando entre páginas (20 de fevereiro - segunda-feira)
-Aula 8: Aprimorando o layout com o CSS avançado (22 de fevereiro - quarta-feira)
-Aula 9: Integrando o HTML com outras linguagens (24 de fevereiro - sexta-feira)
-Aula 10: Publicando e gerenciando seu site (27 de fevereiro - segunda-feira)
+# Capítulo 01 - HTML - CSS - BOOTSTRAP:
+- Aula 1: Introdução ao HTML (06 de fevereiro - segunda-feira).
+- Aula 2: Formatando o conteúdo com CSS (08 de fevereiro - quarta-feira).
+- Aula 3: Layout e responsividade com Bootstrap (10 de fevereiro - sexta-feira).
+- Aula 4: Trabalhando com tabelas (13 de fevereiro - segunda-feira).
+- Aula 5: Formulários e entrada de dados (15 de fevereiro - quarta-feira).
+- Aula 6: Imagens e multimídia (17 de fevereiro - sexta-feira).
+- Aula 7: Criando links e navegando entre páginas (20 de fevereiro - segunda-feira).
+- Aula 8: Aprimorando o layout com o CSS avançado (22 de fevereiro - quarta-feira).
+- Aula 9: Integrando o HTML com outras linguagens (24 de fevereiro - sexta-feira).
+- Aula 10: Publicando e gerenciando seu site (27 de fevereiro - segunda-feira).
 
-# Aula 1: Introdução ao HTML
+## Aula 1: Introdução ao HTML
+- O que é o HTML e por que é importante.
+- Estrutura básica de um documento HTML.
+- Elementos básicos do HTML (como títulos, parágrafos, listas e links).
 
-O que é o HTML e por que é importante
-Estrutura básica de um documento HTML
-Elementos básicos do HTML (como títulos, parágrafos, listas e links)
+## Aula 2: Formatando o conteúdo com CSS
+- O que é o CSS.
+- Adicionando estilo ao seu HTML com CSS.
+- Seletores CSS e como usá-los para estilizar elementos específicos.
+- Propriedades CSS comuns (como fontes, cores, tamanhos de fonte e margens).
 
-# Aula 2: Formatando o conteúdo com CSS
+## Aula 3: Layout e responsividade com Bootstrap
+- O que é o Bootstrap.
+- Como adicionar o Bootstrap ao seu projeto.
+- Criando um layout responsivo usando o sistema de grade do Bootstrap.
+- Utilizando componentes pré-estilizados do Bootstrap (como navbars, botões e cards).
 
-O que é o CSS
-Adicionando estilo ao seu HTML com CSS
-Seletores CSS e como usá-los para estilizar elementos específicos
-Propriedades CSS comuns (como fontes, cores, tamanhos de fonte e margens)
+## Aula 4: Trabalhando com tabelas
+- Como criar tabelas no HTML.
+- Estilizando tabelas com CSS.
+- Utilizando o componente de tabela do Bootstrap.
 
-# Aula 3: Layout e responsividade com Bootstrap
+## Aula 5: Formulários e entrada de dados
+- Como criar formulários no HTML.
+- Tipos de campos de formulário (como caixas de seleção, botões de opção e campos de texto).
+- Estilizando formulários com CSS e o componente de formulário do Bootstrap.
 
-O que é o Bootstrap
-Como adicionar o Bootstrap ao seu projeto
-Criando um layout responsivo usando o sistema de grade do Bootstrap
-Utilizando componentes pré-estilizados do Bootstrap (como navbars, botões e cards)
+## Aula 6: Imagens e multimídia
+- Adicionando imagens ao seu projeto.
+- Trabalhando com diferentes tipos de mídia (como vídeo e áudio).
+- Estilizando imagens e mídia com CSS.
 
-# Aula 4: Trabalhando com tabelas
+## Aula 7: Criando links e navegando entre páginas
+- Como criar links entre páginas e outros sites.
+- Utilizando ancora links para navegar dentro de uma página.
+- Criando uma estrutura de navegação para o seu site com navbars do Bootstrap.
 
-Como criar tabelas no HTML
-Estilizando tabelas com CSS
-Utilizando o componente de tabela do Bootstrap
+## Aula 8: Aprimorando o layout com o CSS avançado
+- Trabalhando com posicionamento em CSS.
+- Criando layouts complexos com display e float.
+- Utilizando pseudo-elementos e pseudo-classes para adicionar efeitos especiais ao seu CSS.
 
-# Aula 5: Formulários e entrada de dados
+## Aula 9: Integrando o HTML com outras linguagens
+- Adicionando JavaScript ao seu projeto para criar interatividade.
+- Integrando o HTML com o PHP para trabalhar com banco de dados e formulários dinâmicos.
 
-Como criar formulários no HTML
-Tipos de campos de formulário (como caixas de seleção, botões de opção e campos de texto)
-Estilizando formulários com CSS e o componente de formulário do Bootstrap
-
-# Aula 6: Imagens e multimídia
-
-Adicionando imagens ao seu projeto
-Trabalhando com diferentes tipos de mídia (como vídeo e áudio)
-Estilizando imagens e mídia com CSS
-
-# Aula 7: Criando links e navegando entre páginas
-
-Como criar links entre páginas e outros sites
-Utilizando ancora links para navegar dentro de uma página
-Criando uma estrutura de navegação para o seu site com navbars do Bootstrap
-
-# Aula 8: Aprimorando o layout com o CSS avançado
-
-Trabalhando com posicionamento em CSS
-Criando layouts complexos com display e float
-Utilizando pseudo-elementos e pseudo-classes para adicionar efeitos especiais ao seu CSS
-
-# Aula 9: Integrando o HTML com outras linguagens
-
-Adicionando JavaScript ao seu projeto para criar interatividade
-Integrando o HTML com o PHP para trabalhar com banco de dados e formulários dinâmicos
-
-# Aula 10: Publicando e gerenciando seu site
-
-Como publicar seu site na AWS S3
-Como fazer o apontamento DNS
-Utilizando o Git para controlar e gerenciar o código do seu site
-Dicas de SEO para melhorar o ranqueamento do seu site nos motores de busca
-Manutenção e atualização de seu site após o lançamento.
+## Aula 10: Publicando e gerenciando seu site
+- Como publicar seu site na AWS S3.
+- Como fazer o apontamento DNS.
+- Utilizando o Git para controlar e gerenciar o código do seu site.
+- Dicas de SEO para melhorar o ranqueamento do seu site nos motores de busca.
+- Manutenção e atualização de seu site após o lançamento.
