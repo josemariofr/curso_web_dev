@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercicío_01</title>
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    <form>
+        <fieldset>
+            <legend>Formulário de Contato</legend>
+
+            <label for="name">Nome:</label>
+            <input type="text" id="name" name="name"><br>
+
+            <label for="email">E-mail:</label>
+            <input type="email" id="email" email="email"><br>
+
+            <label for="message">Mensagem:</label>
+            <textarea id="message" 
+                rows="10"
+                name="message"></textarea><br>
+    </form>
+
+                <script type="text/javascript">
+
+                function redireciona() {
+                    window.location.replace("https://www.uol.com/");
+                }
+                </script>
+
+                <input type="submit" value="Pesquisar" onclick="redireciona()"/>
+
+        </fieldset>
+    </form>
+</body>
+</html>
