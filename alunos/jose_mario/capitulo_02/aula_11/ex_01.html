@@ -17,46 +17,61 @@
         color: aqua;
         font-size: 14px;
     }
+    div#Adicao {
+        color: red;
+    }
+    div#Subtracao {
+        color: rgb(0, 255, 13);
+    }
+    div#Multiplicacao {
+        color: rgb(132, 0, 255);
+    }
+    div#Divisao {
+        color: rgb(217, 255, 0);
+    }
+    
+
+
 </style>
 
 </head>
 <body>
     <h1>Exercício de Matemática</h1>
-    <div1>Adicao <br>
+    <div id="Adicao">Adicao <br>
         <script>
             var n1 = Number(window.prompt('Digite um número: '))
             var n2 = Number(window.prompt('Digite outro número: '))
             var soma = n1 + n2
             window.alert(`A soma entre ${n1} e ${n2} é igual a ${soma}!`)
         </script>
-    </div1>    
+    </div>    
 
-    <div2>Subtração <br>
+    <div id="Subtracao">Subtracao <br>
         <script>
             var n1 = Number(window.prompt('Digite um número: '))
             var n2 = Number(window.prompt('Digite outro número: '))
             var subtracao = n1 - n2
             window.alert(`A diferença entre ${n1} e ${n2} é igual a ${subtracao}!`)
         </script>
-    </div2>
+    </div>
     
-    <div3>Multiplicação <br>
+    <div id="Multiplicacao">Multiplicacao <br>
         <script>
             var n1 = Number(window.prompt('Digite um número: '))
             var n2 = Number(window.prompt('Digite outro número: '))
             var multiplicacao = n1 * n2
             window.alert(`A multiplicação entre ${n1} e ${n2} é igual a ${multiplicacao}!`)
         </script>
-    </div3>
+    </div>
     
-    <div4>Divisão
+    <div id="Divisao">Divisao
         <script>
             var n1 = Number(window.prompt('Digite um número: '))
             var n2 = Number(window.prompt('Digite outro número: '))
             var divisao = n1 / n2
             window.alert(`A divisão entre ${n1} e ${n2} é igual a ${divisao}!`)
         </script>
-    </div4> 
+    </div> 
 
         
 </body>
