@@ -2,6 +2,7 @@
 
 <!DOCTYPE html>
 <html lang="pt-Br">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -14,6 +15,7 @@
     <script src="script.js" defer></script>
 
 </head>
+
 <body>
     <form action="">
         <h2>
@@ -21,17 +23,23 @@
         </h2>
 
         <div class="input">
-            <input required type="text"/>
+            <input required type="text" />
             <label>Nome</label>
             <span class="error"></span>
         </div>
         <div class="input">
-            <input required type="email"/>
+            <input required type="email" />
             <label>Email</label>
+            <span class="error"></span>
+        </div>
+        <div class="input">
+            <input required type="tel" maxlength="15" onkeyup="handlePhone(event)" />
+            <label>Telefone</label>
             <span class="error"></span>
         </div>
 
         <button type="submit">Enviar</button>
     </form>
 </body>
+
 </html>
