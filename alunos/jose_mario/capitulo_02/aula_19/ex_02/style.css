@@ -1,5 +1,4 @@
 :root {
-    --primary-color: #fd951f;
     --bg-color: #130f0d;
     --text-color: #f0f0f5;
     --light-color: rgba(255, 255, 255, 0.04);
@@ -43,17 +42,9 @@ form h2 {
     margin-bottom: 32px;
 }
 
-div.input {
-    margin-bottom: 24px;
-    position: relative;
-}
-
-input,
-button {
-    /* reset appeareance */
-    -moz-appearance: none;
-    -webkit-appearance: none;
-    appearance: none;
+input [type='submit'],
+label {
+    margin-top: 1rem;
 
     /* box */
     width: 100%;
@@ -71,40 +62,10 @@ button {
     color: var(--text-color);
     font-size: 1em;
 
+
 }
 
-button {
-    margin-top: 16px;
-    background-color: var(--primary-color);
-}
-
-input~label {
-    position: absolute;
-    top: 16px;
-    left: 0;
-
-    color: rgba(255, 255, 255, 0.6);
-
-    transition: .4s;
-}
-
-input:focus~label,
-input:valid~label {
-    transform: translateY(-24px);
-    font-size: 0.8em;
-    letter-spacing: 0.1em;
-}
-
-
-.input span.error {
-    display: flex;
-
-    padding: 0;
-
-    background-color: rgba(255, 0, 0, 0.2);
-}
-
-.input span.error.active {
-    border: 1px solid red;
-    padding: 0.4em;
+label {
+    display: block;
+    font: 0.9rem 'Fira Sans', sans-serif;
 }
