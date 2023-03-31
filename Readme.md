@@ -26,7 +26,7 @@
 - Aula 21: Funções nativas do Javascript 2 (24 de março - sexta-feira)
 - Aula 22: Requisições assíncronas (27 de março - segunda-feira)
 - Aula 23: Introdução ao TypeScript (29 de março - quarta-feira)
-- Aula 24: Classes e Herança no TypeScript (31 de março - sexta-feira)
+- Aula 24: Classes, Módulos, Namespaces e Interfaces no TypeScript (31 de março - sexta-feira)
 
 ## Capítulo 03 - Vuejs (03 de abril até 28 de abril) - 12 aulas
 - Aula 25: Introdução ao Vuejs (03 de abril - segunda-feira)
