@@ -51,6 +51,7 @@ npm install vue-router@4
   {
     path: '/user/:id',
     name: 'user',
+    props: true,
     component: UserView
   }
 ```
@@ -172,11 +173,16 @@ router.beforeEach((to, from, next) => {
 
 ```
 <template>
-  <div>
+  <nav>
+    <router-link to="/">Home</router-link> |
+    <router-link to="/about">About</router-link>
+  </nav>
+
+  <router-view v-slot="{Component}">
     <transition name="fade" mode="out-in">
-      <router-view />
+      <component :is="Component" :key="$route.path"/>
     </transition>
-  </div>
+  </router-view>
 </template>
 
 <style>
@@ -191,6 +197,8 @@ router.beforeEach((to, from, next) => {
 - Neste exemplo, envolvemos o componente router-view em uma tag transition e aplicamos a classe de transição fade a ela. Em seguida, definimos as classes CSS fade-enter-active, fade-leave-active, fade-enter e fade-leave-to para controlar a animação da transição. A classe fade-enter-active define a animação de entrada da transição, enquanto fade-leave-active define a animação de saída. As classes fade-enter e fade-leave-to controlam a opacidade do elemento durante a transição.
 
 - Além da classe transition, você também pode usar a classe transition-group para aplicar transições a listas de elementos, como listas de itens em um carrinho de compras ou uma galeria de imagens.
+
+- [Mais sobre transições de rota](https://vuejs.org/guide/built-ins/transition.html)
 
 ### Modos de Histórico
 
