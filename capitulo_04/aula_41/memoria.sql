@@ -1,3 +1,5 @@
+USE aula_mysql;
+
 CREATE TABLE alunos (
     id INT PRIMARY KEY,
     nome VARCHAR(50) NOT NULL,
