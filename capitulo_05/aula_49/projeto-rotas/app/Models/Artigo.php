@@ -13,4 +13,8 @@ class Artigo extends Model
         'titulo',
         'conteudo'
     ];
+
+    protected $table = 'artigos';
+
+    protected $connection = 'mysql';
 }
