@@ -10,6 +10,10 @@
 - Para desfazer todas as migrations, basta executar o comando `php artisan migrate:reset`.
 - Para desfazer todas as migrations e executar novamente, basta executar o comando `php artisan migrate:refresh`.
 
+Fonte:
+- Documentação Laravel - Migrations:
+https://laravel.com/docs/10.x/migrations#creating-tables
+
 ## Seeders
 
 - Seeders são arquivos que contém instruções para inserção de dados no banco de dados.
